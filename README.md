@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**geple/geple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm looking for full-time or part-time work!👷 
+I'm a Mechanical Engineer with 2 years of experience and a bachelor's of Mechanical Engineering (Honours) from Monash University, looking to start my software engineering career ⚡. 
 
-Here are some ideas to get you started:
+Find out more [about me](https://geple.page/about) and [contact me](https://geple.page/contact) if you think I could add to your team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- 🔭 I’m currently working on making [an application to scan lots of photos at once! 📸](https://github.com/geple/album-scanner).
+- 🌱 I’m currently learning PostgreSQL and OpenCV.
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 
+- 📫 Contact me at [gplloyd97@gmail.com](mailto:gplloyd97@gmail.com)
+<!-- - ⚡ Fun fact: ... -->
+
