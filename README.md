@@ -8,9 +8,4 @@ Find out more [about me](https://geple.page/about) and [contact me](https://gepl
 ---
 - 🔭 I’m currently working on making [an application to scan lots of photos at once! 📸](https://github.com/geple/album-scanner).
 - 🌱 I’m currently learning PostgreSQL and OpenCV.
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 
 - 📫 Contact me at [gplloyd97@gmail.com](mailto:gplloyd97@gmail.com)
-<!-- - ⚡ Fun fact: ... -->
-
